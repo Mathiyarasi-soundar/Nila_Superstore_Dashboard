@@ -1,57 +1,70 @@
-Nila_Superstore_Dashboard
+# Nila_Superstore_Dashboard
 
 A data analytics project focused on visualizing and analyzing the sales performance of Nila Superstore using over 581,000+ rows of transactional data. This dashboard provides valuable insights into sales trends, customer behavior, regional performance, and product profitability.
 
+---
+# Dashboard Preview
 <!-- Add image or GIF of dashboard here -->
 
-📊 Project Overview
-Project Name: nila_superstore_sales_dashboard
+---
 
-Data Size: 581,587 rows
+# 📊 Project Overview
 
-Tools Used:
+- Project Name: nila_superstore_sales_dashboard
 
-Excel (initial exploration)
+- Data Size: 581,587 rows
 
-Power BI (dashboard creation)
+- Tools Used:
 
+- Excel (initial exploration)
 
+- Power BI (dashboard creation)
 
-💡 Objectives
-Analyze large-scale retail data to uncover sales trends.
+---
 
-Build an interactive dashboard to monitor KPIs.
+# 💡 Objectives
 
-Provide actionable insights for business decisions.
+- Analyze large-scale retail data to uncover sales trends.
 
-Practice handling large datasets with Power BI.
+- Build an interactive dashboard to monitor KPIs.
 
-🗃️ Data Description
+- Provide actionable insights for business decisions.
 
-Column Name	Description
-InvoiceNo	Unique identifier for each transaction/invoice.
-StockCode	Unique code for the item/product sold.
-Description	Description of the product.
-Quantity	Number of units of the product sold.
-InvoiceDate	Date and time when the transaction occurred.
-UnitPrice	Price per unit of the product (in GBP).
-CustomerID	Unique identifier for the customer who made the purchase.
-Country	Country where the customer is located.
+- Practice handling large datasets with Power BI.
 
-📈 Dashboard Highlights
-Total Sales, Profit, and Quantity KPIs
+---
 
-Monthly Sales Trend analysis
+# 🗃️ Data Description
 
-Top 10 Products by Sales
+- Column Name	Description
+- InvoiceNo	Unique identifier for each transaction/invoice.
+- StockCode	Unique code for the item/product sold.
+- Description	Description of the product.
+- Quantity	Number of units of the product sold.
+- InvoiceDate	Date and time when the transaction occurred.
+- UnitPrice	Price per unit of the product (in GBP).
+- CustomerID	Unique identifier for the customer who made the purchase.
+- Country	Country where the customer is located.
 
-Regional & Category-wise Performance
+---
 
-Customer Segmentation Insights
+# 📈 Dashboard Highlights
 
-Profitability by Discount Range
+- Total Sales, Profit, and Quantity KPIs
 
-🔧 How It Was Built
+- Monthly Sales Trend analysis
+
+- Top 10 Products by Sales
+
+- Regional & Category-wise Performance
+
+- Customer Segmentation Insights
+
+- Profitability by Discount Range
+
+---
+
+# 🔧 How It Was Built
 Data Cleaning: Removed duplicates, handled missing values, formatted dates.
 
 Transformation: Aggregated sales, created calculated columns.
@@ -60,23 +73,17 @@ Visualization: Built interactive Power BI dashboard with slicers, filters, and c
 
 Insights Extraction: Identified trends, high-performing segments, and optimization areas.
 
+---
 
-🚀 Key Takeaways
+# 🚀 Key Takeaways
 Hands-on experience with handling and visualizing large datasets.
 
 Learned how to derive actionable business insights from sales data.
 
 Built a professional dashboard to showcase in data analyst portfolio.
 
-📌 Future Improvements
-Add customer loyalty analysis.
+---
 
-Integrate real-time data updates via APIs.
+# 📞 Contact
 
-Deploy dashboard online using Power BI service.
-
-📞 Contact
-Created by: []
-LinkedIn: [Your LinkedIn]
-Email: [Your Email]
 
