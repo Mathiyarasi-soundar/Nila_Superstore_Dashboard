@@ -1,0 +1,10 @@
+Total Sales = SUM(Invoices[Sales])
+Total Invoices = DISTINCTCOUNT(Invoices[InvoiceNo])
+Total Quantity = SUM(Invoices[Quantity])
+Total Stocks = DISTINCTCOUNT(Invoices[StockCode])
+metrics= {
+    ("Sales", NAMEOF('_Measures'[Total Sales]), 0),
+    ("Invoices", NAMEOF('_Measures'[Total Invoices]), 1),
+    ("Quantity", NAMEOF('_Measures'[Total Quantity]), 2),
+    ("Stocks", NAMEOF('_Measures'[Total Stocks]), 3)
+},
