@@ -1,3 +1,5 @@
+Nila_Superstore_Dashboard
+
 A data analytics project focused on visualizing and analyzing the sales performance of Nila Superstore using over 581,000+ rows of transactional data. This dashboard provides valuable insights into sales trends, customer behavior, regional performance, and product profitability.
 
 <!-- Add image or GIF of dashboard here -->
