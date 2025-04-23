@@ -4,7 +4,7 @@ A data analytics project focused on visualizing and analyzing the sales performa
 
 ---
 # Dashboard Preview
-<!-- Add image or GIF of dashboard here -->
+[Dashboard/superstore.PNG]
 
 ---
 
