@@ -4,7 +4,7 @@ A data analytics project focused on visualizing and analyzing the sales performa
 
 ---
 # Dashboard Preview
-[Dashboard/superstore.PNG]
+![Dashboard preview](Dashboard/superstore.PNG)
 
 ---
 
@@ -85,5 +85,10 @@ Built a professional dashboard to showcase in data analyst portfolio.
 ---
 
 # 📞 Contact
+**Mathiyarasi S** – Aspiring Data Analyst  
+📩 mathisoundar2004@gmail.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/mathiyarasi85/)
+
+---
 
 
