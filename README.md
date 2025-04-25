@@ -8,7 +8,7 @@ A data analytics project focused on visualizing and analyzing the sales performa
 
 ---
 
-# 📊 Project Overview
+# Project Overview
 
 - Project Name: nila_superstore_sales_dashboard
 
@@ -22,7 +22,7 @@ A data analytics project focused on visualizing and analyzing the sales performa
 
 ---
 
-# 💡 Objectives
+# Objectives
 
 - Analyze large-scale retail data to uncover sales trends.
 
@@ -34,7 +34,7 @@ A data analytics project focused on visualizing and analyzing the sales performa
 
 ---
 
-# 🗃️ Data Description
+# Data Description
 
 - Column Name	Description
 - InvoiceNo	Unique identifier for each transaction/invoice.
@@ -48,7 +48,7 @@ A data analytics project focused on visualizing and analyzing the sales performa
 
 ---
 
-# 📈 Dashboard Highlights
+# Dashboard Highlights
 
 - Total Sales, Profit, and Quantity KPIs
 
@@ -75,7 +75,7 @@ Insights Extraction: Identified trends, high-performing segments, and optimizati
 
 ---
 
-# 🚀 Key Takeaways
+# Key Takeaways
 Hands-on experience with handling and visualizing large datasets.
 
 Learned how to derive actionable business insights from sales data.
@@ -84,7 +84,7 @@ Built a professional dashboard to showcase in data analyst portfolio.
 
 ---
 
-# 📞 Contact
+# Contact
 **Mathiyarasi S** – Aspiring Data Analyst  
 📩 mathisoundar2004@gmail.com  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/mathiyarasi85/)
