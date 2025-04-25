@@ -64,7 +64,7 @@ A data analytics project focused on visualizing and analyzing the sales performa
 
 ---
 
-# 🔧 How It Was Built
+# How It Was Built
 Data Cleaning: Removed duplicates, handled missing values, formatted dates.
 
 Transformation: Aggregated sales, created calculated columns.
